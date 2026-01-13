@@ -1,0 +1,9 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.venv/
+venv/
+.env
+.DS_Store
